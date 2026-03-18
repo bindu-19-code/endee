@@ -1,0 +1,59 @@
+Artificial Intelligence is a branch of computer science that focuses on building machines capable of performing tasks that typically require human intelligence such as reasoning, learning, and decision-making.
+
+Machine Learning is a subset of Artificial Intelligence that allows systems to learn patterns from data and improve their performance without being explicitly programmed.
+
+Deep Learning is a type of Machine Learning that uses neural networks with multiple layers to model complex patterns in large datasets.
+
+A Neural Network is a computational model inspired by the human brain, consisting of interconnected nodes that process data and learn patterns.
+
+Python is a high-level programming language widely used in Artificial Intelligence, Machine Learning, and Data Science due to its simplicity and powerful libraries.
+
+APIs, or Application Programming Interfaces, enable communication between different software systems and allow them to exchange data efficiently.
+
+MongoDB is a NoSQL database that stores data in flexible, JSON-like documents instead of traditional tables, making it suitable for scalable applications.
+
+SQL is a structured query language used to manage and retrieve data from relational databases such as MySQL and PostgreSQL.
+
+React is a JavaScript library used for building dynamic and interactive user interfaces, especially in single-page web applications.
+
+Frontend development focuses on the visual and interactive parts of a website that users directly interact with using technologies like HTML, CSS, and JavaScript.
+
+Backend development involves server-side logic, databases, and APIs that power the functionality of a web application.
+
+Data Science is an interdisciplinary field that uses statistics, data analysis, and machine learning to extract meaningful insights from data.
+
+Natural Language Processing is a field of AI that enables machines to understand, interpret, and respond to human language.
+
+Computer Vision is a field of Artificial Intelligence that enables machines to interpret and process visual data such as images and videos.
+
+Cloud Computing provides on-demand access to computing resources such as servers, storage, and databases over the internet.
+
+Git is a version control system that helps developers track changes in their code and collaborate efficiently on projects.
+
+GitHub is a platform for hosting and managing code repositories using Git, allowing collaboration and version control.
+
+REST API is an architectural style for designing networked applications using HTTP methods like GET, POST, PUT, and DELETE.
+
+JSON is a lightweight data format used for storing and exchanging data between systems in a structured way.
+
+Docker is a platform that allows developers to package applications and their dependencies into containers for consistent deployment.
+
+Vector databases are specialized databases designed to store and retrieve vector embeddings efficiently for similarity search.
+
+Embeddings are numerical representations of text or data that capture semantic meaning and are used in machine learning models.
+
+Semantic search is a technique that improves search accuracy by understanding the meaning and context of search queries instead of just matching keywords.
+
+Retrieval-Augmented Generation is a technique that combines information retrieval with language models to generate more accurate and context-aware responses.
+
+A chatbot is an AI application that interacts with users through text or voice and provides automated responses.
+
+Large Language Models are AI models trained on massive datasets that can understand and generate human-like text.
+
+Prompt engineering is the process of designing effective input prompts to guide AI models in generating accurate responses.
+
+Cosine similarity is a metric used to measure the similarity between two vectors by calculating the cosine of the angle between them.
+
+Data preprocessing is the process of cleaning and transforming raw data into a format suitable for analysis and machine learning.
+
+Overfitting is a problem in machine learning where a model learns the training data too well and performs poorly on new data.
