@@ -1,0 +1,78 @@
+
+# 🤖 RAG-Based AI Study Assistant
+
+A simple AI app that answers questions using **Retrieval-Augmented Generation (RAG)**.  
+It retrieves relevant data from a dataset and generates accurate answers using an LLM.
+
+---
+
+## 🌐 Live Demo
+
+👉 https://bindu-19-code-endee-assignment.streamlit.app/
+
+---
+
+## 🚀 Overview
+
+- Finds relevant information using embeddings  
+- Generates answers based on retrieved context  
+- Built with Streamlit  
+
+---
+
+## 🧠 System Design
+
+User Query → Search → Context → LLM → Answer
+
+---
+
+## ⚙️ Use of Endee
+
+- Used Endee as base repository  
+- Built RAG pipeline on top of it  
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- Sentence Transformers  
+- Scikit-learn  
+- Groq API  
+
+---
+
+## 📂 Structure
+
+```
+
+bindu_endee_rag/
+main.py
+dataset.txt
+requirements.txt
+
+````
+
+---
+
+## 🔑 Setup
+
+```bash
+pip install -r requirements.txt
+streamlit run main.py
+````
+
+Add API key:
+
+```
+GROQ_API_KEY = "your_api_key"
+```
+
+---
+
+## 👩‍💻 Author
+
+Bindu K Reddy
+
+```
